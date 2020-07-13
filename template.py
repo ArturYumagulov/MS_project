@@ -20,4 +20,4 @@ product_attributes = {'attributes': [{'sae': {'id': 7284,
                                      ]
                       }
 if __name__ == '__main__':
-    print(product_attributes['attributes'][0]['sae'])
+    print(product_attributes['attributes'][0]['engine_type'])
